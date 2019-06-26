@@ -35,6 +35,7 @@ public class C_6A {
         System.out.println(count);
         System.out.println("哈哈哈哈哈");
 
+        System.out.println("哈哈哈哈哈");
     }
 
 
